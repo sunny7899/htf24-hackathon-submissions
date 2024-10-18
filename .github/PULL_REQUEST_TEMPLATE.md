@@ -3,29 +3,19 @@
 ## Name of Team Lead
 _Enter your full name_
 
-<!--
-
-Aditya Oberai
-
--->
+- Dev Singhal
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-<!--
 
-- @adityaoberai
-- @tessamero
-.
-.
-.
+- @devDEV03
 
--->
 
 ### Are all of your team members registered on our [Hackathon Signup page](https://apwr.dev/htf24-hackathon)?
 _This is a mandatory step for all participants to be considered eligible for judging_
 
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 ---
